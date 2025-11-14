@@ -13,7 +13,7 @@ function ResumeHeader() {
     >
       <h1 style={{ margin: "0", color: "#1976d2" }}>Anushka Patil</h1>
       <p>Final Year Computer Science Student | Aspiring Software Developer</p>
-      <p>Email: aryahulwan@gmail.com | Phone: +91-9172192328</p>
+      <p>Email: anushka2328@gmail.com | Phone: +91-9172192328</p>
     </header>
   );
 }
